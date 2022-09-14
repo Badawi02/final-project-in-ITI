@@ -1,8 +1,9 @@
 # learn_online
 
 ## Features
+
 ============================
-============================
+
  - Website
  - Explore Courses according to category
  - Search Courses with keyword
@@ -12,8 +13,9 @@
  - Support
  - Join as Student and enroll in course
  - Join as Teacher and upload content
+ 
 ============================
-============================
+
 - Teacher Panel
  - Login/Register/OTP verify via email
  - ForgetPassword/ChangePasword/
@@ -24,28 +26,29 @@
  - Upload study material according to course
  - Can see the total enrolled students and their progress
  - Count Total views of content
+ 
 ============================
-============================
+
 - Student Panel
  - Login/Register/OTP verify via email
  - ForgetPassword/ChangePasword/Profile
  - Enrolled Courses
  - View the profile of content creator
+ 
 ============================
-============================
+
 - Admin Panel
  - Manage everything
  - Search anything
  - Add/Update/Delete Any Content
  - Enable disable any course, student, or teacher
-============================
+
 ============================
 
 ## Technologies
 -------------
--------------
+
 # Backend
-==============
 ==============
 - Python
 - Django
@@ -53,7 +56,6 @@
 - Postgres
 
 # Frontend
-==============
 ==============
 - Bootstrap 5
 - Reactjs

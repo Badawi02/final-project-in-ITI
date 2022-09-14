@@ -4,7 +4,7 @@
 
 ============================
 
- - Website
+   ## Website
  - Explore Courses according to category
  - Search Courses with keyword
  - About Us Page
@@ -16,7 +16,7 @@
  
 ============================
 
-- Teacher Panel
+   ## Teacher Panel
  - Login/Register/OTP verify via email
  - ForgetPassword/ChangePasword/
  - Profile/Social Accounts
@@ -29,7 +29,7 @@
  
 ============================
 
-- Student Panel
+   ## Student Panel
  - Login/Register/OTP verify via email
  - ForgetPassword/ChangePasword/Profile
  - Enrolled Courses
@@ -37,7 +37,7 @@
  
 ============================
 
-- Admin Panel
+   ## Admin Panel
  - Manage everything
  - Search anything
  - Add/Update/Delete Any Content
